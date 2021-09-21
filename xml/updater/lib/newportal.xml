@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads date="2021-08-04 11:36:37">
+	<ad id="5637" available="true" category="sale">
+		<name>
+			<ru>Квартира с бассейном 3 спальни Плайя дель Кура</ru>
+			<en>Apartment with pool 3 bedrooms Playa del Cura</en>
+		</name>
+		<description>
+			<ru>Урбанизация с общим бассейном рядом с Плайя дель Кура и набережной, автовокзал в 200м.
+В квартире 3 спальни и 2 ванные комнаты. Просторная и светлая гостиная со встроенной кухней, с выходом на южную террасу
+Имеется лифт, пандус на входе, кондиционер, встроенный шкаф и дает экстерьер. Рядом магазины и услуги, квартира для переезда</ru>
+			<en>Urbanization with communal pool near Playa del Cura and promenade, bus station at 200m.
+Apartment has 3 bedrooms and 2 full bathrooms. Spacious and bright living room with integrated kitchen, with access to the south facing terrace
+It has an elevator, ramp at the entrance, air conditioning, built-in closet and gives exterior. Near shops and services, apartment to move into</en>
+		</description>
+		<price>94110</price>
+		<lat>37.9812949</lat>
+		<lng>-0.6767813</lng>
+		<vendorCode>TMC0053</vendorCode>
+		<url>https://talmarproperty.com/tmc0053.htm</url>
+		<pictures>
+			<picture>https://talmarproperty.com/media/images/items-5637-65019.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65020.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65021.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65022.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65023.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65024.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65025.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65026.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65027.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65028.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65029.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65030.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5637-65031.jfif</picture>
+		</pictures>
+		<params>
+			<param type="string" name_ru="Тип недвижимости" name_en="Property type">
+				<value name_ru="Апартаменты" name_en="Apartments and flats"></value>
+			</param>
+			<param type="int" name_ru="Спален" name_en="Bedrooms">
+				<value>3</value>
+			</param>
+			<param type="int" name_ru="Ванных комнат" name_en="Bathrooms">
+				<value>2</value>
+			</param>
+			<param type="int" name_ru="Жилая площадь" name_en="Living space">
+				<value>88</value>
+			</param>
+				<param type="int" name_ru="Участок" name_en="Land">
+				<value>6</value>
+			</param>
+			<param type="string" name_ru="Регион" name_en="Region">
+				<value name_ru="Alicante" name_en="Alicante"></value>
+			</param>
+			<param type="string" name_ru="Город" name_en="City">
+				<value name_ru="Торревьеха" name_en="Torrevieja"></value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+				<param type="select" name_ru="Дизайн и интерьер" name_en="Design and Interior">
+				<value name_ru="Мебель" name_en="Furniture"></value>
+				<value name_ru="Оборудованная кухня" name_en="Equiped Kitchen "></value>
+				<value name_ru="Душевая кабина" name_en="Shower"></value>
+				<value name_ru="Встроенные шкафы" name_en="built-in wardrobes"></value>
+				</param>
+				<param type="select" name_ru="План и отделка" name_en="Layout and decoration">
+				<value name_ru="Кондиционер тепло/холод" name_en="Air conditioner"></value>
+				</param>
+				<param type="select" name_ru="Окружающая среда" name_en="Environment">
+				<value name_ru="Развитая инфрастуктура" name_en="Infrustructure"></value>
+				</param>
+				<param type="select" name_ru="Территория" name_en="Territory">
+				<value name_ru="Лифт" name_en="Elevator"></value>
+				<value name_ru="Ухоженный тропический сад" name_en="Community Garden"></value>
+				<value name_ru="Бассейн общий" name_en="Public swimming pool"></value>
+				</param>
+			<param type="tree" name_ru="Расстояние" name_en="Distance">
+				<option name_ru="Аэропорт" name_en="Airport">
+					<value>45 km.</value>
+				</option>
+				<option name_ru="Магазины, рестораны" name_en="Shops">
+					<value>200 m.</value>
+				</option>
+				<option name_ru="Пляж" name_en="Beach">
+					<value>500 m.</value>
+				</option>
+			</param>
+		</params>
+	</ad>
+	<ad id="5638" available="true" category="sale">
+		<name>
+			<ru>Современная квартира 200 м Плайя дель Кура с видом на море</ru>
+			<en>Modern apartment 200m Playa del Cura with sea views</en>
+		</name>
+		<description>
+			<ru>Квартира в Торревьехе расположена всего в 100 метрах от пляжа с боковым видом на море. В доме 3 спальни с двуспальными кроватями, 2 ванные комнаты, гостиная, кухня меблирована и оборудована, большая терраса с боковым видом на море.
+Дом находится рядом с магазинами, Пасео-Маритиму-де-Торревьеха, ресторанами, пляж Лос-Локос находится в 100 метрах от дома, а пляж дель Кура около 300 метров, в окружении парков и зеленых зон. Дом идеально подходит для проживания круглый год или проведения чудесного отдыха недалеко от пляжа в Торревьехе.</ru>
+			<en>Apartment in Torrevieja located just 100 meters from the beach with side sea views. The house has 3 double bedrooms, 2 bathrooms, living room, kitchen furnished and equipped, large terrace with lateral sea views.
+It is fully furnished and ready to move into. The house is close to shops, Paseo Marítimo de Torrevieja, restaurants, Los Locos beach is 100 meters from the house and the beach of the priest about 300 meters, surrounded by parks and green areas. The house is ideal to live all year or spend a wonderful holiday near the beach in Torrevieja.</en>
+		</description>
+		<price>109900</price>
+		<lat>37.979553</lat>
+		<lng>-0.6655349</lng>
+		<vendorCode>TMC0054</vendorCode>
+		<url>https://talmarproperty.com/tmc0054.htm</url>
+		<pictures>
+			<picture>https://talmarproperty.com/media/images/items-5638-65032.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65033.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65034.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65035.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65036.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65037.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65038.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65039.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65040.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65041.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65042.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65043.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65044.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65045.jfif</picture>
+			<picture>https://talmarproperty.com/media/images/items-5638-65046.jfif</picture>
+		</pictures>
+		<params>
+			<param type="string" name_ru="Тип недвижимости" name_en="Property type">
+				<value name_ru="Апартаменты" name_en="Apartments and flats"></value>
+			</param>
+			<param type="int" name_ru="Спален" name_en="Bedrooms">
+				<value>3</value>
+			</param>
+			<param type="int" name_ru="Ванных комнат" name_en="Bathrooms">
+				<value>2</value>
+			</param>
+			<param type="int" name_ru="Жилая площадь" name_en="Living space">
+				<value>80</value>
+			</param>
+				<param type="int" name_ru="Участок" name_en="Land">
+				<value>6</value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+			<param type="string" name_ru="Регион" name_en="Region">
+				<value name_ru="Alicante" name_en="Alicante"></value>
+			</param>
+			<param type="string" name_ru="Город" name_en="City">
+				<value name_ru="Торревьеха" name_en="Torrevieja"></value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+				<param type="select" name_ru="Дизайн и интерьер" name_en="Design and Interior">
+				<value name_ru="Оборудованная кухня" name_en="Equiped Kitchen "></value>
+				<value name_ru="Мебель" name_en="Furniture"></value>
+				</param>
+			<param type="tree" name_ru="Расстояние" name_en="Distance">
+				<option name_ru="Аэропорт" name_en="Airport">
+					<value>45 km.</value>
+				</option>
+				<option name_ru="Магазины, рестораны" name_en="Shops">
+					<value>200 m.</value>
+				</option>
+				<option name_ru="Пляж" name_en="Beach">
+					<value>100 m.</value>
+				</option>
+			</param>
+		</params>
+	</ad>
+	<ad id="5894" available="true" category="sale">
+		<name>
+			<ru>Уютный пентхаус с террасой 55м2</ru>
+			<en>Nice penthouse with terrace 55m2, SOUTH!</en>
+		</name>
+		<description>
+			<ru>Хороший пентхаус с террасой  55 м2 !
+3 спальни со встроенными шкафами, 1 ванная комната, гостиная, кухня, кондиционер, меблирована и оборудована, красивая терраса с открытым видом и зоной барбекю, рядом со всеми услугами, всего в 600 м от пляжа Кура и  прогулочной набережной!идиальное предложение для отдыха и круглогодичного проживания!
+Дополнительно:  гараж в том же здании за дополнительную цену.</ru>
+			<en>Nice penthouse with terrace at 55m2, SOUTH!
+3 bedrooms with fitted wardrobes, 1 bathroom, living room, kitchen, a / c, furnished and equipped, beautiful terrace with open views with BBQ area, close to all services, only 600m from cura beach, promenade, better see it !!
+extra: Optional garage in the same building.</en>
+		</description>
+		<price>138000</price>
+		<lat>37.9815366</lat>
+		<lng>-0.6738196</lng>
+		<vendorCode>TM1471</vendorCode>
+		<url>https://talmarproperty.com/tm1471.htm</url>
+		<pictures>
+			<picture>https://talmarproperty.com/media/images/items-5894-106486.JPG</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106487.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106488.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106489.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106501.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106492.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106497.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106518.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106517.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106519.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106495.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106496.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106498.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106499.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106502.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106494.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106504.JPG</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106493.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5894-106505.JPG</picture>
+		</pictures>
+		<params>
+			<param type="string" name_ru="Тип недвижимости" name_en="Property type">
+				<value name_ru="Квартиры" name_en="Apartments"></value>
+			</param>
+			<param type="int" name_ru="Спален" name_en="Bedrooms">
+				<value>3</value>
+			</param>
+			<param type="int" name_ru="Ванных комнат" name_en="Bathrooms">
+				<value>1</value>
+			</param>
+			<param type="int" name_ru="Жилая площадь" name_en="Living space">
+				<value>89</value>
+			</param>
+				<param type="int" name_ru="Участок" name_en="Land">
+				<value>50</value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+			<param type="string" name_ru="Регион" name_en="Region">
+				<value name_ru="Alicante" name_en="Alicante"></value>
+			</param>
+			<param type="string" name_ru="Город" name_en="City">
+				<value name_ru="Торревьеха" name_en="Torrevieja"></value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+				<param type="select" name_ru="Дизайн и интерьер" name_en="Design and Interior">
+				<value name_ru="Встроенные шкафы" name_en="built-in wardrobes"></value>
+				<value name_ru="Оборудованная кухня" name_en="Equiped Kitchen "></value>
+				<value name_ru="Мебель" name_en="Furniture"></value>
+				<value name_ru="Душевая кабина" name_en="Shower"></value>
+				</param>
+				<param type="select" name_ru="План и отделка" name_en="Layout and decoration">
+				<value name_ru="Кондиционер тепло/холод" name_en="Air conditioner"></value>
+				<value name_ru="Стеклопакеты" name_en="PVC Windows "></value>
+				</param>
+				<param type="select" name_ru="Окружающая среда" name_en="Environment">
+				<value name_ru="Морской клуб" name_en="Nautical Club"></value>
+				<value name_ru="Развитая инфрастуктура" name_en="Infrustructure"></value>
+				</param>
+				<param type="select" name_ru="Территория" name_en="Territory">
+				<value name_ru="Сигнализация" name_en="Alarm"></value>
+				<value name_ru="Лифт" name_en="Elevator"></value>
+				<value name_ru="Барбекю зона" name_en="Barbacue area"></value>
+				<value name_ru="Автоматические ворота" name_en="Automatic gates"></value>
+				</param>
+			<param type="tree" name_ru="Расстояние" name_en="Distance">
+				<option name_ru="Аэропорт" name_en="Airport">
+					<value>45 km.</value>
+				</option>
+				<option name_ru="Магазины, рестораны" name_en="Shops">
+					<value>50 m.</value>
+				</option>
+				<option name_ru="Пляж" name_en="Beach">
+					<value>600 m.</value>
+				</option>
+			</param>
+		</params>
+	</ad>
+	<ad id="5639" available="true" category="sale">
+		<name>
+			<ru>Квартира с видом на зеленую зону рядом с Плайя дель Кура в Торревьехе</ru>
+			<en>Apartment overlooking green area near Playa del Cura in Torrevieja</en>
+		</name>
+		<description>
+			<ru>Продается квартира в урбанизации с общим бассейном и зеленой зоной, недалеко от Плайя-дель-Кура и Пасео-Маритимо, всего в 500 м от песчаного пляжа.
+Очень солнечно с балконом на южную сторону, с видом на бассейн.
+В квартире есть гостиная, 2 спальни со встроенными шкафами, главная спальня с видом на зеленую зону, а другая с видом на внутренний дворик, американская кухня с окном, полностью оборудованная ванная комната с окном.
+Очень хорошая инвестиция, чтобы всегда жить так для туристической аренды
+Год постройки 2000.</ru>
+			<en>Apartment for sale in urbanization with communal pool and green area, near Playa del Cura and Paseo Maritimo, just 500m from the sandy beach
+Very sunny with south facing balcony, overlooking the pool.
+The apartment has a living room, 2 bedrooms with fitted wardrobes, Master bedroom has views of the green area and the other overlooks the patio, American kitchen with window, full bathroom with window
+Very good investment to always live like this for tourist rental
+Year of construction 2000.</en>
+		</description>
+		<price>75000</price>
+		<lat>37.9821201</lat>
+		<lng>-0.6710372</lng>
+		<vendorCode>TMC0055</vendorCode>
+		<url>https://talmarproperty.com/tmc0055.htm</url>
+		<pictures>
+			<picture>https://talmarproperty.com/media/images/items-5639-65047.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65048.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65049.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65050.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65051.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65052.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65053.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65054.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65055.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65056.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65057.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65058.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65059.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65060.jpg</picture>
+			<picture>https://talmarproperty.com/media/images/items-5639-65061.jpg</picture>
+		</pictures>
+		<params>
+			<param type="string" name_ru="Тип недвижимости" name_en="Property type">
+				<value name_ru="Апартаменты" name_en="Apartments and flats"></value>
+			</param>
+			<param type="int" name_ru="Спален" name_en="Bedrooms">
+				<value>2</value>
+			</param>
+			<param type="int" name_ru="Ванных комнат" name_en="Bathrooms">
+				<value>1</value>
+			</param>
+			<param type="int" name_ru="Жилая площадь" name_en="Living space">
+				<value>63</value>
+			</param>
+			<param type="string" name_ru="Улица" name_en="Street">
+				<value>Los Gases</value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+			<param type="string" name_ru="Регион" name_en="Region">
+				<value name_ru="Alicante" name_en="Alicante"></value>
+			</param>
+			<param type="string" name_ru="Город" name_en="City">
+				<value name_ru="Торревьеха" name_en="Torrevieja"></value>
+			</param>
+			<param type="string" name_ru="Район" name_en="District">
+				<value name_ru="Playa del cura" name_en="Playa del cura"></value>
+			</param>
+				<param type="select" name_ru="Дизайн и интерьер" name_en="Design and Interior">
+				<value name_ru="Встроенные шкафы" name_en="built-in wardrobes"></value>
+				<value name_ru="Оборудованная кухня" name_en="Equiped Kitchen "></value>
+				<value name_ru="Мебель" name_en="Furniture"></value>
+				</param>
+				<param type="select" name_ru="План и отделка" name_en="Layout and decoration">
+				<value name_ru="Кондиционер тепло/холод" name_en="Air conditioner"></value>
+				</param>
+				<param type="select" name_ru="Территория" name_en="Territory">
+				<value name_ru="Парковка" name_en="Parking"></value>
+				<value name_ru="Лифт" name_en="Elevator"></value>
+				<value name_ru="Ухоженный тропический сад" name_en="Community Garden"></value>
+				<value name_ru="Бассейн общий" name_en="Public swimming pool"></value>
+				<value name_ru="Ухоженный сад" name_en="Green zone"></value>
+				</param>
+			<param type="tree" name_ru="Расстояние" name_en="Distance">
+				<option name_ru="Аэропорт" name_en="Airport">
+					<value>45 km.</value>
+				</option>
+				<option name_ru="Магазины, рестораны" name_en="Shops">
+					<value>100 m.</value>
+				</option>
+				<option name_ru="Пляж" name_en="Beach">
+					<value>500 m.</value>
+				</option>
+			</param>
+		</params>
+	</ad>
+</ads>
